@@ -14,7 +14,7 @@
 
 그 이후부터는 자기가 맡은 주제 이외에 주제를 공부하고 논의하면서 같이 수정해본다.
 
-- Context 조상우
+- [Context 조상우](https://github.com/FlutterSuji/study/wiki/BuildContext)
 - Key 문준석
 - LifeCycle 이서예
 - Dart 박우석
