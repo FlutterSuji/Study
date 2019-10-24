@@ -7,6 +7,22 @@
 - 이후는 간단한 앱을 선정하여 Clone 합니다.
 - Clone 앱에 토픽들을 선정하여 확장합니다.
 
+## Week #6
+Instagram Clone (Profile screen)
+
+| Member | Repo |
+| --- | --- |
+| bearchit | https://github.com/bearchit/flutter-instagram-clone |
+
+## Week #5
+- Life Cycle (@seoreal)
+- State Management (@bearchit)
+
+## Week #4
+- Context (@mrbigcho)
+- Key (문준석 님)
+- Dart (@probepark)
+
 ## Week #3
 - 심화 주제 선정해서 다뤄보기
 - 각자 클론앱 하고 싶은거 선정하기
